@@ -1,0 +1,82 @@
+body {
+  margin: 0; }
+
+hello-world div {
+  background-color: yellow;
+  overflow: hidden; }
+  hello-world div h1 {
+    text-align: center;
+    color: red; }
+
+.add_block {
+  width: 80%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 20px;
+  overflow: hidden;
+  background-color: #99d9ea; }
+
+.header {
+  width: 100%; }
+  .header h3 {
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 0; }
+
+.add_field {
+  margin-left: 10%;
+  margin-right: 10%; }
+  .add_field label {
+    font-size: 30px; }
+  .add_field input {
+    height: 30px;
+    width: 100%; }
+
+.submit_button {
+  float: right;
+  margin-right: 10%;
+  margin-top: 15px;
+  width: 100px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #00ff40;
+  outline: none;
+  color: white; }
+
+.element_div {
+  width: 80%;
+  margin-top: 10px;
+  padding-top: 15px;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-bottom: 20px;
+  overflow: hidden;
+  border-radius: 15px;
+  background-color: #eaeaea; }
+  .element_div .conteiner {
+    width: 100%;
+    overflow: hidden; }
+  .element_div h4 {
+    position: relative;
+    padding-left: 15px;
+    float: left; }
+  .element_div h5 {
+    position: relative;
+    padding-right: 15px;
+    float: right; }
+  .element_div p {
+    position: relative;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify; }
+  .element_div a {
+    position: relative;
+    float: right;
+    text-decoration: none;
+    color: blue;
+    margin-right: 15px;
+    outline: none;
+    font-size: 30px; }
+
+/*# sourceMappingURL=style.css.map */
